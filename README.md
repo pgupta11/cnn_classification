@@ -1,4 +1,4 @@
-# CNN 
+# Image Classification
 
 Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset.
 
